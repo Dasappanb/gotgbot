@@ -5,9 +5,9 @@ package is a code-generated wrapper for the telegram bot api. We also provide an
 updater/dispatcher pattern to provide update processing out of the box.
 
 All the telegram types and methods are generated from
-[a bot api spec](https://github.com/PaulSonOfLars/telegram-bot-api-spec). These are generated in the `gen_*.go` files.
+[a bot api spec](https://github.com/Dasappanb/gotgbot). These are generated in the `gen_*.go` files.
 
-If you have any questions, come find us in our [telegram support chat](https://t.me/GotgbotChat)!
+If you have any questions, come find us in our [telegram support chat](https://t.me/MR_Dasappan_Malayalam_Rockers)!
 
 ## Features:
 
@@ -26,7 +26,7 @@ If you have any questions, come find us in our [telegram support chat](https://t
 Download the library with the standard `go get` command:
 
 ```bash
-go get github.com/PaulSonOfLars/gotgbot/v2
+go get https://github.com/Dasappanb/gotgbot
 ```
 
 ### Example bots
@@ -35,7 +35,7 @@ Sample bots can be found in the [samples directory](samples).
 
 ## Docs
 
-Docs can be found [here](https://pkg.go.dev/github.com/PaulSonOfLars/gotgbot/v2).
+Docs can be found [here](https://github.com/Dasappanb/gotgbot).
 
 ## Contributing
 
